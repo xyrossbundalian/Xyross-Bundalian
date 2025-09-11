@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIDTERM_A1_BSIT31A1_Relox_JeromeJay", "librarymanagement\MIDTERM_A1_BSIT31A1_Relox_JeromeJay.csproj", "{4699E0D9-74B7-4D43-9D2A-5D0172E88074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4699E0D9-74B7-4D43-9D2A-5D0172E88074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4699E0D9-74B7-4D43-9D2A-5D0172E88074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4699E0D9-74B7-4D43-9D2A-5D0172E88074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4699E0D9-74B7-4D43-9D2A-5D0172E88074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56026CEC-3186-4739-83BD-618AE9EFC036}
+	EndGlobalSection
+EndGlobal
